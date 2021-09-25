@@ -1,2 +1,1 @@
-# Software-workflows
-it is my first project
+I am a new trainee in software workflows project
